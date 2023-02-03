@@ -1,0 +1,19 @@
+EDA
+
+continuous features
+
+- box plot is suitable for continuous features
+
+- seasonality, time-series plots
+
+relationships between continuous features, go for scatter plots
+
+don't focus on certain variables
+do a correlation heatmap to screen through every single variable
+
+Correlation is a statistical technique
+
+Categorical features - chi square test
+
+Categorical vs numerical features - T test
+
